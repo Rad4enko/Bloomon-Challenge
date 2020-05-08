@@ -1,4 +1,7 @@
 # Bloomon Challenge
+
+Watch challenge description in requirements.pdf
+
 # Local run
 
  Open terminal.
